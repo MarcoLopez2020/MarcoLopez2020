@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page with Sidenav</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='/assets/css/style.css') }}" />
+</head>
+<body>
+    <!-- Menú de Navegación -->
+    <nav class="hide-on-small-only">
+      <ul class="side-nav fixed section table-of-contents">
+        <li class="logo">
+            <a id="logo-container" aria-label="Navigate to the beginning of the page" href="#intro"
+              class="brand-logo grey-blue-text">
+              <img src="../static/assets/img/f1.jpg" class="circle img-responsive profile-pic" alt="avatar">
+            </a>
+          </li>
+        <li class="bold"><a href="#sobre" class="waves-effect waves-dark teal-text"><i class="mdi-social-person small"></i>Sobre Mí</a></li>
+        <li class="bold"><a href="#experiencia" class="waves-effect waves-dark teal-text"><i class="mdi-action-trending-up small"></i>Experiencia</a></li>
+        <li class="bold"><a href="#proyectos" class="waves-effect waves-dark teal-text"><i class="mdi-av-my-library-books small"></i>Proyectos</a></li>
+        <li class="bold"><a href="#habilidades" class="waves-effect waves-dark teal-text"><i class="mdi-action-assessment small"></i>Habilidades</a></li>
+        <li class="bold"><a href="#educacion" class="waves-effect waves-dark teal-text"><i class="mdi-social-school small"></i>Educación</a></li>
+        <li class="bold"><a href="#contacto" class="waves-effect waves-dark teal-text"><i class="mdi-content-mail small"></i>Contacto</a></li>
+       
+    </nav>
+  
+    <!-- Contenido Principal -->
+    <main>
+        <section id="inicio" class="section scrollspy">
+            <h3 class="page-title white-text teal">Inicio</h3>
+            <div class="container center-align flow-text">
+              <p>
+                ¡Bienvenido a mi portafolio! Soy <strong>Marco López</strong>, un apasionado desarrollador de software dedicado a crear soluciones innovadoras y funcionales.
+              </p>
+              <p>
+                Explora mi trabajo, proyectos y habilidades en esta página. Estoy comprometido con el aprendizaje continuo y siempre abierto a nuevas oportunidades para colaborar.
+              </p>
+              <div class="social">
+
+                <a href="https://github.com/MarcoLopez2020" target="blank">
+                    <button class="icon-btn github">
+                      <img src="static/assets/img/github.png" alt="GitHub" class="social-icon">
+                    </button>
+                  </a>  
+                <a href="https://www.linkedin.com/in/marco-l%C3%B3pez-98736b163/" target="_blank">
+                    <button class="icon-btn linkedin">
+                      <img src="static/assets/img/linkedin.png" alt="GitHub" class="social-icon">
+                    </button>
+                  </a>  
+              </div>
+            </div>
+          </section>
+          
+  
+      <section id="sobre" class="section scrollspy">
+        <h3 class="page-title white-text teal">Sobre Mí</h3>
+        <div class="container flow-text">
+          <p>
+            ¡Hola! Soy <strong>Marco López</strong>, un desarrollador de software apasionado por la tecnología y la innovación.  
+            Me especializo en crear soluciones prácticas que abordan problemas reales utilizando tecnologías modernas como 
+            <strong>Python</strong>, <strong>React</strong> y <strong>Flask</strong>.  
+          </p>
+          <p>
+            Mi misión es diseñar aplicaciones de alto impacto que no solo sean funcionales, sino también intuitivas y eficientes.  
+            Estoy constantemente aprendiendo nuevas herramientas y metodologías para estar a la vanguardia en el desarrollo de software.
+          </p>
+          <p>
+            En mi tiempo libre, me gusta explorar nuevas tecnologías, colaborar en proyectos interesantes y compartir conocimiento con otros desarrolladores.
+          </p>
+          <h5 class="teal-text">Habilidades Técnicas:</h5>
+          <ul>
+            <li><strong>Lenguajes:</strong> Python, Java, JavaScript, HTML/CSS</li>
+            <li><strong>Bases de datos:</strong> MySQL, PostgreSQL, MongoDB</li>
+            <li><strong>Librerías:</strong> TensorFlow, Keras, NumPy, Pandas, OpenCV</li>
+            <li><strong>Frameworks:</strong> Flask, Django, Node.js, PyTorch, Bootstrap</li>
+            <li><strong>Herramientas y tecnologías:</strong> Git, Docker, AWS, JIRA</li>
+          </ul>
+        </div>
+      </section>
+      <!-- Sección de Experiencia -->
+<section id="experiencia" class="section scrollspy">
+  <h3 class="page-title white-text teal">Experiencia</h3>
+  <div class="container">
+
+    <!-- Prácticas Profesionales en FISEI -->
+    <div class="card">
+      <div class="card-content">
+        <div class="row">
+          <div class="col s12 m2">
+            <img alt="Logo de la Universidad Técnica de Ambato" src="static/assets/img/uta-logo.jpg" class="responsive-img center-block" />
+          </div>
+          <div class="col s12 m10">
+            <p>
+              <span class="card-title">Departamento de Administración de Redes - FISEI</span>
+            </p>
+          </div>
+        </div>
+        <div class="role brown-text text-darken-2">Prácticas Profesionales</div>
+        <ul>
+          <li>
+            Realicé una revisión integral de la red, inspeccionando y documentando el estado de routers y switches para garantizar su óptimo funcionamiento.
+          </li>
+          <li>
+            Mantuve computadores y otros equipos de hardware, realizando tareas como instalación y actualización de software en aulas, solución de problemas técnicos, y reestructuración del cableado para optimizar la conectividad y el orden de los dispositivos.
+          </li>
+          <li>
+            Diseñé, mantuve y mejoré aplicaciones web que ayudaron a mejorar la gestión interna.
+          </li>
+          <li>
+            Realicé un inventario detallado de los activos de la institución, incluyendo computadoras, pantallas, mesas, sillas y otros recursos, contribuyendo al control y la organización eficiente de los bienes de la facultad.
+          </li>
+          <li>
+            Coordiné la entrega de informes detallados sobre las actividades realizadas, proporcionando una visión clara y estructurada de las mejoras implementadas en la infraestructura de la facultad.
+          </li>
+          <li>
+            Este trabajo contribuyó significativamente a la optimización de la infraestructura tecnológica de la facultad.
+          </li>
+        </ul>
+      </div>
+      <div class="card-action">
+        <span>Febrero 2024 - Julio 2024 | Universidad Técnica de Ambato</span>
+      </div>
+    </div>
+
+    <!-- Proyecto para GAD de Santa Rosa -->
+    <div class="card">
+      <div class="card-content">
+        <div class="row">
+          <div class="col s12 m2">
+            <img alt="Logo GAD Santa Rosa" src="static/assets/img/gad-santa-rosa-logo.png" class="responsive-img center-block" />
+          </div>
+          <div class="col s12 m10">
+            <p>
+              <span class="card-title">GAD de Santa Rosa</span>
+            </p>
+          </div>
+        </div>
+        <div class="role brown-text text-darken-2">Desarrollador de Sistema de Facturación</div>
+        <ul>
+          <li>
+            Desarrollé un sistema de facturación completo para el GAD de Santa Rosa utilizando **PHP** y **HTML**, integrando la API del **SRI** para la emisión de facturas electrónicas de acuerdo con las normativas fiscales ecuatorianas.
+          </li>
+          <li>
+            Implementé funcionalidades que incluyen la creación de facturas electrónicas, seguimiento de pagos y generación de reportes.
+          </li>
+          <li>
+            El sistema permitió a la institución agilizar el proceso administrativo, asegurando el cumplimiento con las normativas fiscales y mejorando la experiencia de los usuarios.
+          </li>
+          <li>
+            Colaboré en la integración del sistema con otras herramientas de gestión interna, lo que contribuyó a una mayor automatización y control.
+          </li>
+          <li>
+            <b>Herramientas:</b> PHP, HTML, MySQL
+          </li>
+        </ul>
+      </div>
+      <div class="card-action">
+        <span>Sólo Septiembre 2024 - Febrero 2025 | GAD de Santa Rosa</span>
+      </div>
+    </div>
+
+    <!-- Proyecto para Santo Licor -->
+    <div class="card">
+      <div class="card-content">
+        <div class="row">
+          <div class="col s12 m2">
+            <img alt="Logo Santo Licor" src="static/assets/img/santo-licor-logo.jpg" class="responsive-img center-block" />
+          </div>
+          <div class="col s12 m10">
+            <p>
+              <span class="card-title">Santo Licor</span>
+            </p>
+          </div>
+        </div>
+        <div class="role brown-text text-darken-2">Desarrollador de Modelos de Machine Learning</div>
+        <ul>
+          <li>
+            Desarrollé y entrené un modelo de red neuronal artificial (ANN) para predecir las ventas de productos alcohólicos en la licorera "Santo Licor", basándome en variables como el historial de ventas, tipo de producto, estacionalidad y promociones.
+          </li>
+          <li>
+            El modelo permitió optimizar el inventario y las estrategias de promoción, incrementando las ventas y reduciendo las pérdidas por productos no vendidos.
+          </li>
+          <li>
+            Implementé técnicas de preprocesamiento de datos, selección de características y validación cruzada para asegurar la precisión y robustez del modelo.
+          </li>
+          <li>
+            <b>Herramientas:</b> Python, TensorFlow, Scikit-learn
+          </li>
+        </ul>
+      </div>
+      <div class="card-action">
+        <span>Febrero 2024 - Julio 2024 | Santo Licor</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+<!-- Cuarta Sección: Proyectos -->
+<section id="projects" class="section scrollspy">
+  <h3 class="page-title white-text teal">Proyectos</h3>
+  <div class="container">
+    <div class="row">
+      <!-- Proyecto CI-CD_DAS -->
+      <div class="col s12 m6 l4">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img alt="CI-CD DAS" src="/assets/img/ci_cd_das_logo.png" style="height: 100%; width: 100%" class="activator" />
+          </div>
+          <div class="card-content">
+            <span class="card-title activator teal-text hoverline">CI-CD DAS<i class="mdi-navigation-more-vert right"></i></span>
+            <p>Pruebas de integración continua y despliegue continuo.</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title teal-text"><small>Logros</small><i class="mdi-navigation-close right"></i></span>
+            <ul>
+              <li><b>Herramientas:</b> HTML, JavaScript, CI/CD</li>
+              <li>Configuración de integración continua y despliegue automático para proyectos.</li>
+            </ul>
+            <div class="card-action">
+              <a aria-label="Visitar el repositorio" href="https://github.com/usuario/CI-CD_DAS" target="_blank" data-position="top" data-tooltip="Ver Código" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Proyecto intro_tresJS -->
+      <div class="col s12 m6 l4">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img alt="Intro TresJS" src="/assets/img/intro_tresjs_logo.png" style="height: 100%; width: 100%" class="activator" />
+          </div>
+          <div class="card-content">
+            <span class="card-title activator teal-text hoverline">Introducción a TresJS<i class="mdi-navigation-more-vert right"></i></span>
+            <p>Introducción a proyectos en 3D con TresJS.</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title teal-text"><small>Logros</small><i class="mdi-navigation-close right"></i></span>
+            <ul>
+              <li><b>Herramientas:</b> JavaScript, Three.js</li>
+              <li>Creación de proyectos en 3D utilizando Three.js para visualización interactiva.</li>
+            </ul>
+            <div class="card-action">
+              <a aria-label="Visitar el repositorio" href="https://github.com/usuario/intro_tresJS" target="_blank" data-position="top" data-tooltip="Ver Código" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Proyecto perfil_flask -->
+      <div class="col s12 m6 l4">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img alt="Perfil Flask" src="/assets/img/perfil_flask_logo.png" style="height: 100%; width: 100%" class="activator" />
+          </div>
+          <div class="card-content">
+            <span class="card-title activator teal-text hoverline">Página de Perfil Flask<i class="mdi-navigation-more-vert right"></i></span>
+            <p>Página desarrollada en Flask de mi perfil.</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title teal-text"><small>Logros</small><i class="mdi-navigation-close right"></i></span>
+            <ul>
+              <li><b>Herramientas:</b> Python, Flask, HTML, CSS</li>
+              <li>Página personal desarrollada utilizando Flask como backend.</li>
+            </ul>
+            <div class="card-action">
+              <a aria-label="Visitar el repositorio" href="https://github.com/usuario/perfil_flask" target="_blank" data-position="top" data-tooltip="Ver Código" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Proyecto reconocimiento_facial_IA -->
+      <div class="col s12 m6 l4">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img alt="Reconocimiento Facial IA" src="/assets/img/reconocimiento_facial_ia_logo.png" style="height: 100%; width: 100%" class="activator" />
+          </div>
+          <div class="card-content">
+            <span class="card-title activator teal-text hoverline">Reconocimiento Facial IA<i class="mdi-navigation-more-vert right"></i></span>
+            <p>Proyecto de reconocimiento facial basado en IA.</p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title teal-text"><small>Logros</small><i class="mdi-navigation-close right"></i></span>
+            <ul>
+              <li><b>Herramientas:</b> Python, OpenCV, Machine Learning</li>
+              <li>Entrenamiento de un modelo de ML para reconocimiento facial en imágenes.</li>
+            </ul>
+            <div class="card-action">
+              <a aria-label="Visitar el repositorio" href="https://github.com/usuario/reconocimiento_facial_IA" target="_blank" data-position="top" data-tooltip="Ver Código" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- Quinta Sección: Habilidades -->
+<section id="skills" class="section scrollspy">
+  <h3 class="page-title white-text teal">Habilidades</h3>
+  <div class="container">
+    <!-- Lenguajes y Bases de Datos -->
+    <div class="card">
+      <div class="card-content">
+        <h4 class="brown-text light">Lenguajes y Bases de Datos</h4>
+        <div class="row text-center">
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/python-logo-1-300x300.jpg" class="responsive-img" />Python
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/html5-300x300.jpg" class="responsive-img" />HTML5
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/css3-300x300.jpg" class="responsive-img" />CSS3
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/mysql-logo-1-300x300.jpg" class="responsive-img" />MySQL
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/postgresql-logo.png" class="responsive-img" />PostgreSQL
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Librerías -->
+    <div class="card">
+      <div class="card-content">
+        <h4 class="brown-text light">Librerías</h4>
+        <div class="row text-center">
+          <div class="col s4 m2">
+            <img alt="" src="/assets/img/numpy-logo-1-500x500.jpg" class="responsive-img" />NumPy
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/pandas-logo-2-500x500.jpg" class="responsive-img" />Pandas
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/opencv-logo-1-500x500.jpg" class="responsive-img" />OpenCV
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/sk-learn-logo-1-500x500.jpg" class="responsive-img" />scikit-learn
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/matplotlib-logo-1-500x500.jpg" class="responsive-img" />matplotlib
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Frameworks -->
+    <div class="card">
+      <div class="card-content">
+        <h4 class="brown-text light">Frameworks</h4>
+        <div class="row text-center">
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/django-logo.webp" class="responsive-img" />Django
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/flask-logo.png" class="responsive-img" />Flask
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/bootstrap.png" class="responsive-img" />Bootstrap
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/keras-logo.png" class="responsive-img" />Keras
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/tensorflow-logo-1.png" class="responsive-img" />TensorFlow
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/pytorch-logo.png" class="responsive-img" />PyTorch
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Otros -->
+    <div class="card">
+      <div class="card-content">
+        <h4 class="brown-text light">Otros</h4>
+        <div class="row text-center">
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/git.png" class="responsive-img" />Git
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/aws.png" class="responsive-img" />AWS
+          </div>
+          <div class="col s4 m2">
+            <img alt="" src="static/assets/img/heroku.png" class="responsive-img" />Heroku
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+    </main>
+  </body>
+  
+</html>

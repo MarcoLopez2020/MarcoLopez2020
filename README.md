@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Marco Lopez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolopez2020&label=Profile%20views&color=0e75b6&style=flat" alt="marcolopez2020" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolopez2020" alt="marcolopez2020" /></a> </p>
+<!-- Encabezado con divisor horizontal (gradiente) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on [Reeconocimeinto facial con el uso CNN](https://github.com/MarcoLopez2020/reconocimiento_facial_IA)
+<h1 align="center">Hola 👋, Soy Marco López</h1>
+<h3 align="center">Un apasionado desarrollador de software enfocado en soluciones innovadoras</h3>
 
-- 🌱 I’m currently learning **https://github.com/Dionisio202/Junta_Agua/**
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/117570596-c0d73b80-b0d5-11eb-921e-11b8d10d6ac7.png" alt="Sobre mí" width="300"/>
+    <p>Soy Marco López, un apasionado desarrollador de software dedicado a crear soluciones innovadoras y funcionales.</p>
+    <p>Explora mi trabajo, proyectos y habilidades en esta página. Estoy comprometido con el aprendizaje continuo y siempre abierto a nuevas oportunidades para colaborar.</p>
+</div>
 
-- 👯 I’m looking to collaborate on [GEstion de inventario FISEI](https://github.com/SebasTix02/Mercury)
-
-- 🤝 I’m looking for help with [Facturador junta de agua de la parroquia Santa Rosa](https://github.com/MarcoLopez2020/reconocimiento_facial_IA)
-
-- 💬 Ask me about **python and machine learnig**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marco lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco lópez" height="30" width="40" /></a>
-<a href="https://fb.com/marco lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marco lópez" height="30" width="40" /></a>
+    <img src="https://komarev.com/ghpvc/?username=marcolopez2020&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="marcolopez2020" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopez2020&show_icons=true&locale=en&layout=compact" alt="marcolopez2020" /></p>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Partipación en proyectos
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolopez2020&show_icons=true&locale=en" alt="marcolopez2020" /></p>
+<br><br>
+- 🔭 Actualmente estoy trabajando en [Reconocimiento facial con el uso de CNN](https://github.com/MarcoLopez2020/reconocimiento_facial_IA)
+
+- 🌱 Actualmente estoy flask de python [Perfil personal - Flask](https://github.com/MarcoLopez2020/perfil_flask)
+
+- 👯 Trabaje en un sistema de inventarios con ts y node [Gestión de Inventario FISEI](https://github.com/SebasTix02/Mercury)
+
+- 🤝  Brinde ayuda con [Facturador junta de agua de la parroquia Santa Rosa](https://github.com/MarcoLopez2020/reconocimiento_facial_IA)
+
+- 💬 Pregúntame sobre **Python y aprendizaje automático**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Conéctate conmigo
+<p align="left">
+    <a href="https://www.linkedin.com/in/marco-l%C3%B3pez-98736b163/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco lópez" height="30" width="40" />
+    </a>
+    <a href="https://marco-lopez.vercel.app/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marco lópez" height="30" width="40" />
+    </a>
+</p>
+
+
+<h2>🛠️ | Lenguajes, Frameworks y Herramientas </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,php,django,flask"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,ts"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,githubactions"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Base de Datos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de Versiones:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux, canva "/></td>
+    </tr>
+</table>
+<br>
+
+</p>
+<h2>⭐ | Estadísticas de Github </h2>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolopez2020&show_icons=true&locale=es&layout=compact" alt="marcolopez2020" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolopez2020&show_icons=true&locale=es" alt="marcolopez2020" /></p>
+
+<p align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
+</p>

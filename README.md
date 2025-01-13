@@ -7,7 +7,7 @@
 <h3 align="center">Un apasionado desarrollador de software enfocado en soluciones innovadoras</h3>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/117570596-c0d73b80-b0d5-11eb-921e-11b8d10d6ac7.png" alt="Sobre mí" width="300"/>
+    <img src="https://github.com/MarcoLopez2020/MarcoLopez2020/blob/main/static/css/eu05.jpeg" alt="Sobre mí" width="300"/>
     <p>Soy Marco López, un apasionado desarrollador de software dedicado a crear soluciones innovadoras y funcionales.</p>
     <p>Explora mi trabajo, proyectos y habilidades en esta página. Estoy comprometido con el aprendizaje continuo y siempre abierto a nuevas oportunidades para colaborar.</p>
 </div>
